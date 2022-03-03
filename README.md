@@ -1,2 +1,2 @@
 # Machine-learning-for-python
-It's implements about static machine learning(Lee-hang) code
+It's implements about statistics machine learning(Lee-hang) code
